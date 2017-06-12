@@ -1,2 +1,2 @@
 # HackerYouProjects
-Course Projects - Coplete for the course I took in April-June 2017.
+Course Projects - Completed for the web-dev course I took in April-June 2017.
